@@ -1,4 +1,4 @@
-// Problem 3: Largest prime factorPassed
+// Problem 3: Largest prime factor
 
 function largestPrimeFactor(number) {
     function isPrime(n) {
