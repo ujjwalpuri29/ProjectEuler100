@@ -1,3 +1,5 @@
+// Problem 3: Largest prime factorPassed
+
 function largestPrimeFactor(number) {
     function isPrime(n) {
         for (let i=2; i<Math.ceil(Math.sqrt(n)); i++)
